@@ -4,3 +4,4 @@
 2.  Exercise Faktor Persekutuan Terbesar
 3.  Exercise Mencari Mean
 4.  Exercise Mencari Median
+5.  Exercise Mencari Modus
