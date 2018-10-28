@@ -6,3 +6,4 @@
 4.  Exercise Mencari Median
 5.  Exercise Mencari Modus
 6.  Exercise Digit Perkalian Minimum
+7.  Exercise Urutkan Abjad
