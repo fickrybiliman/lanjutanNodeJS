@@ -7,3 +7,4 @@
 5.  Exercise Mencari Modus
 6.  Exercise Digit Perkalian Minimum
 7.  Exercise Urutkan Abjad
+8.  Exercise Tukar Besar Kecil
