@@ -8,3 +8,4 @@
 6.  Exercise Digit Perkalian Minimum
 7.  Exercise Urutkan Abjad
 8.  Exercise Tukar Besar Kecil
+9.  Exercise Check AB
