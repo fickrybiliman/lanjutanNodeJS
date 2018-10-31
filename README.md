@@ -12,3 +12,4 @@
 10. Exercise Tambah Dash / Strip
 11. Exercise Ubah Kapital
 12. Exercise Ubah Huruf
+13. Exercise Hitung Huruf
